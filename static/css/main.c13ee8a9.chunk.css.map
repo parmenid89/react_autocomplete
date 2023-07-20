@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/Components/Dropdown/Dropdown.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CCEZ,oCAEC,WAAY","file":"main.c13ee8a9.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n",".dropdown {\n  &-trigger {\n    width: 15rem;\n  }\n  &-content {\n    width: 15rem;\n  }\n}\n"]}
